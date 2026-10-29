@@ -1,0 +1,7 @@
+{
+  "name": "WORDRUSH",
+  "description": "Consumer psychology research and spontaneous speaking practice tool for content creators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
